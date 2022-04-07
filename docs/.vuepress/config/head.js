@@ -6,7 +6,7 @@ module.exports = [
     'meta',
     {
       name: 'keywords',
-      content: '地理信息系统,地信,遥感,GIS,RS,地信遥感数据汇',
+      content: '地理信息系统,地信,遥感,GIS,RS,修真门派掌门路',
     },
   ],
   // [
