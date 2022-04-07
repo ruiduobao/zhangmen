@@ -17,11 +17,11 @@ features: # 可选的
   - title: 人物划分
     details: 人物介绍、主修功法、时间线、其他
     imgUrl: /img/rs2.svg
-    link: /02.人物故事/
+    link: /人物故事/
   - title: 周边整理
     details: 优秀诗词、同人小说、插图、其他周边
     imgUrl: /img/soft2.svg
-    link: /03.周边整理/
+    link: /周边整理/
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
