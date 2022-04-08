@@ -86,7 +86,7 @@ module.exports = [
       options: {
         clientID: 'dcdbf4a1c9e556f6d015',
         clientSecret: 'bbf3308e29305da34a2d18cb02a44a2b58f37824',
-        repo: 'gisrsdata.com', // GitHub 仓库
+        repo: 'zhangmen', // GitHub 仓库
         owner: 'ruiduobao', // GitHub仓库所有者
         admin: ['ruiduobao'], // 对仓库有写权限的人
         // distractionFreeMode: true,
@@ -109,7 +109,7 @@ module.exports = [
     },
   ],  
     ['sitemap', {
-      hostname: "http://gisrsdata.com",
+      hostname: "https://zhangmen.ruiduobao.com",
     }],
     ['vuepress-plugin-baidu-autopush'],
     ['autometa'],

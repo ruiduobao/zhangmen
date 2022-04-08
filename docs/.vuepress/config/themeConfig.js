@@ -7,12 +7,12 @@ module.exports = {
   nav,
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
   logo: '/img/EB-logo.png', // 导航栏logo
-  repo: 'ruiduobao/gisrsdata.com', // 导航栏右侧生成Github链接
+  repo: 'ruiduobao/zhangmen', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
   docsDir: 'docs', // 编辑的文件夹
   editLinks: true, // 启用编辑
-  editLinkText: '有问题，我来改改',
+  editLinkText: '道友写错了，我来改改',
 
   //*** 以下配置是Vdoing主题改动和新增的配置 ***//
 
@@ -42,7 +42,7 @@ module.exports = {
   //   '图标地址1',
   //   '图标地址2'
   // ],
-  contentBgStyle: 1, // 文章内容块的背景风格，默认无. 1 => 方格 | 2 => 横线 | 3 => 竖线 | 4 => 左斜线 | 5 => 右斜线 | 6 => 点状
+  // contentBgStyle: 1, // 文章内容块的背景风格，默认无. 1 => 方格 | 2 => 横线 | 3 => 竖线 | 4 => 左斜线 | 5 => 右斜线 | 6 => 点状
 
   // updateBar: { // 最近更新栏
   //   showToArticle: true, // 显示到文章页底部，默认true
@@ -56,8 +56,8 @@ module.exports = {
 
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: 'GISer', // 必需
-    link: 'https://github.com/ruiduobao/gisrsdata.com', // 可选的
+    name: '锐多宝', // 必需
+    link: 'https://github.com/ruiduobao/zhangmen', // 可选的
   },
   // blogger: {
   //   // 博主信息，显示在首页侧边栏
@@ -77,7 +77,7 @@ module.exports = {
       // {
       //   iconClass: 'icon-github',
       //   title: 'github',
-      //   link: 'https://github.com/ruiduobao/gisrsdata.com',
+      //   link: 'https://github.com/ruiduobao/zhangmen',
       // },
       {
         iconClass: 'icon-weixin',

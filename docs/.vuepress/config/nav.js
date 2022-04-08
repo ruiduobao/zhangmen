@@ -57,17 +57,17 @@ module.exports = [
     items: [
       {
         items: [
-          { text: '优秀诗词', link: '/coding-GIS/' },
+          { text: '优秀诗词', link: '/优秀诗词/' },
         ],
       },
       {
         items: [
-          { text: '同人小说', link: '/coding-RS/' },
+          { text: '同人小说', link: '/同人小说/' },
         ],
       },
       {
         items: [
-          { text: '卡片', link: '/soft-GIS/' },
+          { text: '卡片', link: '/卡片/' },
         ],
       },
       {
