@@ -16,7 +16,7 @@ features: # 可选的
     link: /世界设定/
   - title: 门派与人物
     details: 门派介绍、人物介绍、主修功法、时间线、其他
-    imgUrl: /img/rs2.svg
+    imgUrl: /img/zhangmen.jpg
     link: /门派与人物/
   - title: 周边整理
     details: 优秀诗词、同人小说、插图、其他周边
