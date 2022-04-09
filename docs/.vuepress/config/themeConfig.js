@@ -98,7 +98,7 @@ module.exports = {
   },
   footer: {
     // 页脚信息
-    createYear: 2021, // 博客创建年份
+    createYear: 2022, // 博客创建年份
     copyrightInfo:
       '<a href="" target="_blank">gisrsdata.com </a>', // 博客版权信息，支持a标签
   },
