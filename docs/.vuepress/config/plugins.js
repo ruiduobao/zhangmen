@@ -84,8 +84,9 @@ module.exports = [
     {
       choosen: 'gitalk',
       options: {
-        clientID: 'dcdbf4a1c9e556f6d015',
-        clientSecret: 'bbf3308e29305da34a2d18cb02a44a2b58f37824',
+        //创建ID网址：https://github.com/settings/applications
+        clientID: '7ae8740f8956b15b6730',
+        clientSecret: 'ad115a5ce878c1c25089791de7f2758f8ad8bd95',
         repo: 'zhangmen', // GitHub 仓库
         owner: 'ruiduobao', // GitHub仓库所有者
         admin: ['ruiduobao'], // 对仓库有写权限的人
