@@ -14,10 +14,10 @@ features: # 可选的
     details: 地图、设定、时间线、货币系统、物事品阶
     imgUrl: /img/gis2.svg
     link: /世界设定/
-  - title: 人物划分
-    details: 人物介绍、主修功法、时间线、其他
+  - title: 门派与人物
+    details: 门派介绍、人物介绍、主修功法、时间线、其他
     imgUrl: /img/rs2.svg
-    link: /人物故事/
+    link: /门派与人物/
   - title: 周边整理
     details: 优秀诗词、同人小说、插图、其他周边
     imgUrl: /img/soft2.svg
