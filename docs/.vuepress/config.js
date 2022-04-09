@@ -4,8 +4,8 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   lang: 'zh-CN',
-  //theme: 'vdoing', // 使用npm包主题
-  theme: require.resolve('../../vdoing'), // 使用本地主题
+  theme: 'vdoing', // 使用npm包主题
+  //theme: require.resolve('../../vdoing'), // 使用本地主题
 
   title: "修真门派掌门路",
   description: "本命/灵根/同参的世界",

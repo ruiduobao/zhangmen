@@ -1,4 +1,3 @@
-<!-- 
 <template>
   <div class="categories-wrapper card-box">
     <router-link
@@ -27,7 +26,7 @@
     </div>
   </div>
 </template>
--->
+
 <script>
 export default {
   props: {
