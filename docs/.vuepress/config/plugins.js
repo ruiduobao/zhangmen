@@ -1,5 +1,6 @@
 // 插件配置
 module.exports = [
+  
   // 本地插件
   // ['love-me', { // 鼠标点击爱心特效
   //   color: '#11a8cd', // 爱心颜色，默认随机色
@@ -115,5 +116,6 @@ module.exports = [
     ['vuepress-plugin-baidu-autopush'],
     ['autometa'],
     // ['social-share']
+  
     
 ]
