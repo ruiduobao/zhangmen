@@ -71,16 +71,16 @@ module.exports = {
       //   title: 'github',
       //   link: 'https://github.com/ruiduobao/zhangmen',
       // },
-      // {
-      //   iconClass: 'icon-weixin',
-      //   title: '微信',
-      //   link: 'http://pics.landcover100.com/pics//image/20211128020929.png',
-      // },
-      // {
-      //   iconClass: 'icon-zhihu',
-      //   title: '知乎',
-      //   link: 'https://www.zhihu.com/people/justyoufengmei',
-      // },
+      {
+        iconClass: 'icon-weixin',
+        title: '微信',
+        link: 'http://pics.landcover100.com/pics//image/20211128020929.png',
+      },
+      {
+        iconClass: 'icon-zhihu',
+        title: '知乎',
+        link: 'https://www.zhihu.com/people/justyoufengmei',
+      },
       // {
       //   iconClass: 'icon-csdn',
       //   title: 'CSDN',
@@ -92,7 +92,7 @@ module.exports = {
     // 页脚信息
     createYear: 2022, // 博客创建年份
     copyrightInfo:
-      '<a href="" target="_blank">gisrsdata.com </a>', // 博客版权信息，支持a标签
+      '<a href="" target="_blank">zhangmen.ruiduobao.com</a>', // 博客版权信息，支持a标签
   },
   htmlModules // 插入hmtl(广告)模块
   
