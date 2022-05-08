@@ -4,6 +4,7 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   lang: 'zh-CN',
+  // theme: 'default', // 使用npm包主题
   // theme: 'vdoing', // 使用npm包主题
   theme: require.resolve('../../vdoing'), // 使用本地主题
 
