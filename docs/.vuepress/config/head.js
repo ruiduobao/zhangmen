@@ -59,7 +59,9 @@ module.exports = [
   document.write('<script src="' + src + '" id="sozz"><\/script>');
   })();
     `
-]
+],
+['script', { src: 'https://cdn.jsdelivr.net/npm/twikoo@1.4.18/dist/twikoo.all.min.js' }],
+
 
 
 
